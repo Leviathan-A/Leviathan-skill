@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clang Debug Step"
+  short_description: "Enter Docker and run standard clang debug checks"
+  default_prompt: "Use $clang-debug-step to enter docker and run the default clang debug check flow."

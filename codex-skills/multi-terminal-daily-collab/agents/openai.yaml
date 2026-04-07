@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Terminal Daily Collab"
+  short_description: "Coordinate daily note updates across terminal agents"
+  default_prompt: "Coordinate multiple terminal agents to safely update daily notes and hand off for consolidation/push."

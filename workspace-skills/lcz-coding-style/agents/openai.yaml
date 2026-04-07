@@ -1,0 +1,4 @@
+interface:
+  display_name: "LCZ Coding Style"
+  short_description: "Function-first refactors and clean commit scope discipline"
+  default_prompt: "Apply LCZ style: encapsulate logic into helper functions and keep business paths one-line; exclude deploy/test/docs files from commits by default."

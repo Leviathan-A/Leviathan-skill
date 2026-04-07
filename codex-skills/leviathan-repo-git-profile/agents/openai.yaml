@@ -1,0 +1,4 @@
+interface:
+  display_name: "Leviathan Repo Profile"
+  short_description: "Apply Leviathan Git identity before push operations"
+  default_prompt: "Apply Leviathan-A Git profile in this repository before commit/push."

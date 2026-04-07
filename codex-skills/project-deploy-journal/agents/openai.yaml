@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deploy Journal"
+  short_description: "Track deployment changes, operations, statuses, and RCAs."
+  default_prompt: "Use -deploy-journal to maintain a structured deployment operation record with status and root-cause sections."

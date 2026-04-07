@@ -1,0 +1,4 @@
+interface:
+  display_name: "K8s Env3 Automation"
+  short_description: "Env3.10 low-prompt K8s automation flow."
+  default_prompt: "Use $k8s-env3-automation to run kubespray and kubectl tasks with env3.10 and minimal interaction overhead."
